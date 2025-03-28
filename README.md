@@ -1,3 +1,3 @@
 ## olá! Eu sou o Sérgio Becker
-- Estudando C++
+- Estudante de Informática Biomedica Pela Universidade Federal de Ciências da Saúde de Porto Alegre
 - contate-me email: sergiobecker2022@gmail.com
